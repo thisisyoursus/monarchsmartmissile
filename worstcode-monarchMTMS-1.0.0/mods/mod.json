@@ -1,0 +1,7 @@
+{
+	"Name": "MonarchSmartMissile",
+	"Description": "edge.",
+	"Version": "1.0.0",
+	"RequiredOnClient": false,
+	"LoadPriority": 5
+}
