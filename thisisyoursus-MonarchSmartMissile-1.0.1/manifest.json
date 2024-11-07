@@ -1,0 +1,7 @@
+{
+  "name": "MonarchSmartMissile",
+  "version_number": "1.0.1",
+  "description": "Monarch smartmissile now can lock pilot",
+  "website_url": "https://github.com/thisisyoursus/monarchsmartmissile",
+  "dependencies": []
+}
